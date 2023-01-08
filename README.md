@@ -17,7 +17,7 @@ I'm still learning, if there is a mistake please guide me
 
 ### Languages I'm learning and Tools I'm using:
 
-![Languages and Tools](https://skillicons.dev/icons?i=html,kotlin,java,js,git,github,vscode,nodejs)
+![Languages and Tools](https://skillicons.dev/icons?i=html,python,kotlin,java,js,git,github,vscode,nodejs)
 <br>
 
 ---
