@@ -11,7 +11,6 @@ I'm still learning, if there is a mistake please guide me
 [<img align="left" width="22" alt="LutfilahDz on Discord" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg">](https://discord.gg/ZTKht9gyVA)
 [<img align="left" width="22" alt="lutfilahdzaky on Instagram" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">](https://www.instagram.com/adammakesfilm2/)
 [<img align="left" width="22" alt="lutfilahdzaky on Facebook" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg">](https://www.facebook.com/adammakesfilm)
-[<img align="left" width="22" alt="lutfilahdzaky on Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">](https://twitter.com/adammakesfilm)
 [<img align="left" width="22" alt="lutfilahdzaky on LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linkedin.com/in/adammakesfilm)
 <br>
 
