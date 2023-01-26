@@ -28,7 +28,6 @@ I'm still learning, if there is a mistake please guide me
     <a href="https://youtube.com/lutfilahdz?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCbKordCHefkVhXBwzZvQy1g?label=YouTube&logo=YouTube&style=for-the-badge"></a> 
     <a href="https://discord.gg/ZTKht9gyVA"><img alt="Discord" src="https://img.shields.io/discord/688418406101418020?label=Discord&logo=Discord&style=for-the-badge"></a>
     <a href="https://github.com/adammakesfilm?tab=followers"><img alt="GitHub" src="https://img.shields.io/github/followers/adammakesfilm?label=GitHub&logo=GitHub&style=for-the-badge"></a> 
-    <a href="https://twitter.com/adammakesfilm"><img alt="Twitter" src="https://img.shields.io/twitter/follow/adammakesfilm?label=Twitter&logo=Twitter&style=for-the-badge"></a>
 </p>
 <p align="center">  
     <a href="https://linktr.ee/adammakesfilm"><img alt="Website" src="https://img.shields.io/website?down_message=Offline&label=linktr.ee%2Fadammakesfilm&style=flat-square&up_message=Online&url=https%3A%2F%2Flinktr.ee%2Fadammakesfilm"></a>  
