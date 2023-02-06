@@ -3,7 +3,7 @@
 I'm still learning, if there is a mistake please guide me
 
 - 📚 I'm currently learning Java
-- ⭐️ For now my hobbies are The Forest, making ice cream and board games
+- ⭐️ For now my hobbies are RDR2, making ice cream and ChatGPT
 - 💙 I hope I made you smile, that's all I ever wanted
 
 ### Connect with me:
