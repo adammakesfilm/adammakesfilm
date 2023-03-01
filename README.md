@@ -22,7 +22,7 @@ I'm still learning, if there is a mistake please guide me
 ---
 
 <p align="center">
-    <a href="https://github.com/adammakesfilm"><img width="50%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=adammakesfilm&theme=tokyonight&show_icons=true&hide_border=true"></a>
+    <a href="https://github.com/adammakesfilm"><img width="50%" alt="Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adammakesfilm&theme=tokyonight&show_icons=true&hide_border=true"></a>
 </p>
 <p align="center">
     <a href="https://youtube.com/lutfilahdz?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCbKordCHefkVhXBwzZvQy1g?label=YouTube&logo=YouTube&style=for-the-badge"></a> 
