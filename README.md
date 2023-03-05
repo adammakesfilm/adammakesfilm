@@ -18,14 +18,16 @@ I'm still learning, if there is a mistake please guide me
 
 ![Languages and Tools](https://skillicons.dev/icons?i=html,java,js,git,github,vscode,nodejs)
 <br>
-
 ---
+<p align="center">
+    <a href="https://github.com/adammakesfilm"><img width="50%" alt="Github Stats" src="https://github-profile-trophy.vercel.app/?username=adammakesfilm&theme=tokyonight&column=-1&rank=-?&margin-w=15&margin-h=15"></a>
+</p>
 
 <p align="center">
-    <a href="https://github.com/adammakesfilm"><img width="50%" alt="Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adammakesfilm&theme=tokyonight&show_icons=true&hide_border=true"></a>
+    <a href="https://github.com/adammakesfilm"><img width="50%" alt="Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adammakesfilm&show_icons=true&theme=tokyonight&"></a>
 </p>
 <p align="center">
-    <a href="https://youtube.com/lutfilahdz?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCbKordCHefkVhXBwzZvQy1g?label=YouTube&logo=YouTube&style=for-the-badge"></a> 
+    <a href="https://youtube.com/adammakesfilm?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCbKordCHefkVhXBwzZvQy1g?label=YouTube&logo=YouTube&style=for-the-badge"></a> 
     <a href="https://discord.gg/ZTKht9gyVA"><img alt="Discord" src="https://img.shields.io/discord/688418406101418020?label=Discord&logo=Discord&style=for-the-badge"></a>
     <a href="https://github.com/adammakesfilm?tab=followers"><img alt="GitHub" src="https://img.shields.io/github/followers/adammakesfilm?label=GitHub&logo=GitHub&style=for-the-badge"></a> 
 </p>
