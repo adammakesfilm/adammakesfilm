@@ -3,7 +3,7 @@
 I'm still learning, if there is a mistake please guide me
 
 - 📚 I'm currently learning Java
-- ⭐️ For now my hyperfixations are Path of Exile, making ice cream, and ChatGPT
+- ⭐️ For now my hyperfixations are Warframe, Minecraft, making ice cream, and Google Gemini
 - 💙 I hope I made you smile, that's all I ever wanted
 
 ### Connect with me:
@@ -16,12 +16,12 @@ I'm still learning, if there is a mistake please guide me
 
 ### Stuff I'm learning:
 
-![Languages and Tools](https://skillicons.dev/icons?i=html,java,js,git,nodejs,discord)
+![Languages and Tools](https://skillicons.dev/icons?i=html,java,js,git,nodejs,blender)
 <br>
 
 ### Stuff I've learned: 
 
-![Skills I have](https://skillicons.dev/icons?i=ae,ps,pr,blender,powershell,wordpress,github,vscode)
+![Skills I have](https://skillicons.dev/icons?i=ae,ps,pr,discord,powershell,wordpress,github,vscode)
 ---
 <p align="center">
     <a href="https://github.com/adammakesfilm"><img width="50%" alt="Github Stats" src="https://github-profile-trophy.vercel.app/?username=adammakesfilm&theme=tokyonight&column=-1&rank=-?&margin-w=15&margin-h=15"></a>
