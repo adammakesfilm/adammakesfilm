@@ -14,14 +14,6 @@ I'm still learning, if there is a mistake please guide me
 [<img align="left" width="22" alt="adammakesfilm on LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linkedin.com/in/adammakesfilm)
 <br>
 
-### Stuff I'm learning:
-
-![Languages and Tools](https://skillicons.dev/icons?i=html,java,js,git,nodejs,blender)
-<br>
-
-### Stuff I've learned: 
-
-![Skills I have](https://skillicons.dev/icons?i=ae,ps,pr,discord,powershell,wordpress,github,vscode)
 ---
 <p align="center">
     <a href="https://github.com/adammakesfilm"><img width="50%" alt="Github Stats" src="https://github-profile-trophy.vercel.app/?username=adammakesfilm&theme=tokyonight&column=-1&rank=-?&margin-w=15&margin-h=15"></a>
