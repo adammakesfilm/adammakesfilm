@@ -3,7 +3,7 @@
 I'm still learning, if there is a mistake please guide me
 
 - 📚 I'm currently learning Java
-- ⭐️ For now my hyperfixations are Warframe, Minecraft, making ice cream, and Google Gemini
+- ⭐️ For now my hyperfixations are Warframe, Minecraft, and making ice cream
 - 💙 I hope I made you smile, that's all I ever wanted
 
 ### Connect with me:
