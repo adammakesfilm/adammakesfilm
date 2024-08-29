@@ -15,9 +15,6 @@ I'm still learning, if there is a mistake please guide me
 <br>
 
 ---
-<p align="center">
-    <a href="https://github.com/adammakesfilm"><img width="50%" alt="Github Stats" src="https://github-profile-trophy.vercel.app/?username=adammakesfilm&theme=tokyonight&column=-1&rank=-?&margin-w=15&margin-h=15"></a>
-</p>
 
 <p align="center">
     <a href="https://github.com/adammakesfilm"><img width="50%" alt="Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adammakesfilm&show_icons=true&theme=tokyonight&"></a>
