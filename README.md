@@ -1,4 +1,4 @@
-## Hi there, I'm Adam - aka adammakesfilm
+## Hi there, I'm Adam
 
 I'm still learning, if there is a mistake please guide me
 
