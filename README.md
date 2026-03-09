@@ -1,16 +1,10 @@
-## Hi there, I'm Adam McCoid - aka adammakesfilm
+## Hi there, I'm Adam - aka adammakesfilm
 
 I'm still learning, if there is a mistake please guide me
 
 - 📚 I'm currently learning Java
 - ⭐️ For now my hyperfixations are Warframe, Minecraft, and making ice cream
 - 💙 I hope I made you smile, that's all I ever wanted
-
-### Connect with me:
-[<img align="left" width="22" alt="adammakesfilm on YouTube" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg">](https://www.youtube.com/@adammakesfilm)
-[<img align="left" width="22" alt="adammakesfilm on Discord" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg">](https://discord.gg/ZTKht9gyVA)
-[<img align="left" width="22" alt="adammakesfilm on LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linkedin.com/in/adammakesfilm)
-<br>
 
 ---
 
